@@ -3,6 +3,9 @@ from tkinter import colorchooser
 import winreg as reg
 import os
 
+def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 # Функция для изменения значений в реестре
 def modify_registry(path, name, value, value_type=reg.REG_SZ):
     try:
@@ -44,6 +47,7 @@ def apply_changes():
 
 # Создание главного окна
 root = tk.Tk()
+clear_console()
 root.title("Choose color | @Ewinnery | Simples .py!")
 
 # Настройка горизонтального макета
