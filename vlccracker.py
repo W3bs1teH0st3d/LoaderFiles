@@ -1,6 +1,7 @@
 import subprocess
 import requests
 from time import sleep
+import os
 
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
