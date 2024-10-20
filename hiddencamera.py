@@ -2,6 +2,10 @@ import socket
 import netifaces
 from scapy.all import ARP, Ether, srp
 import requests
+import os
+
+def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 # функция для градиентного текста
 def gradient_text(text, start_color, end_color):
@@ -37,7 +41,7 @@ start_color2 = "#fa0000"
 end_color2 = "#ffb8b8"
 
 # логотип
-logo = """
+logo = """ 
 ██╗  ██╗██╗██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗ █████╗ ███╗   ███╗███████╗██████╗  █████╗ ██████╗
 ██║  ██║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔══██╗██╔══██╗╚════██╗
 ███████║██║██║  ██║██║  ██║█████╗  ██╔██╗ ██║██║     ███████║██╔████╔██║█████╗  ██████╔╝███████║  ▄███╔╝
@@ -147,6 +151,7 @@ def find_cameras(ip_range):
     return cameras
 
 if __name__ == "__main__":
+    clear_console()
     print(gradient_text(logo, start_color, end_color))  # Печать логотипа с градиентом
     ip_range = get_ip_range()
     print(gradient_text("Сканирование сети...", start_color, end_color))
