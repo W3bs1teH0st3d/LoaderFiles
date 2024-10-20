@@ -8,6 +8,8 @@ import time
 from colorama import init, Back, Fore, Style
 
 # logo paste
+def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 def gradient_text(text, start_color, end_color):
     # функция для преобразования цвета HEX в RGB
@@ -127,6 +129,7 @@ def try_password(ssid, password):
 
 
 def main():
+    clear_console()
     print(gradient_text(text, start_color, end_color))
     ssid = input(f"{Fore. WHITE}Target SSID: ")
     password_list_url = 'https://raw.githubusercontent.com/zecopro/wpa-passwords/refs/heads/master/3wifi-wordlist.txt'
