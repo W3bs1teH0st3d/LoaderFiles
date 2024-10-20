@@ -2,6 +2,9 @@ import subprocess
 import requests
 from time import sleep
 
+def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 def gradient_text(text, start_color, end_color):
     def hex_to_rgb(hex_color):
         hex_color = hex_color.lstrip('#')
@@ -103,6 +106,7 @@ logo = """
     """
 
 if __name__ == "__main__":
+    clear_console()
     print(gradient_text(logo, "#1000FF", "#FFFFFF"))  # Сине-белый градиент
 
     ip = input("Camera IP: ")
