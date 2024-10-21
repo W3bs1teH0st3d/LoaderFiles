@@ -13,10 +13,10 @@ import queue
 import webbrowser
 
 # Версия лоадера
-VERSION = "1.02"
+VERSION = "1.2"
 VERSION_URL_TEMPLATE = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/1.1"  # URL для проверки версии в имени файла
 LOADER_DOWNLOAD_URL = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/loader_newversion.py"  # URL для скачивания новой версии
-image_url = "https://raw.githubusercontent.com/FileInstaller/Deadlygoofer.cc/refs/heads/Website/logo.jpg"  # Замените на реальный URL изображения
+image_url = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/изображение_2024-10-20_205140496.png"  # Замените на реальный URL изображения
 
 # Путь для загрузки файлов
 DOWNLOAD_PATH = "C:/DeadlySoft/Sources"
@@ -114,20 +114,32 @@ class LoaderApp(ctk.CTk):
             self.show_main_menu()
 
     def download_and_replace(self, url):
-        print("downloaded and replaced update!")
+        print("Загрузка новой версии и замена текущей!")
         try:
+            # отображаем статус в консоли и интерфейсе
             self.status_text.set("Downloading new version...")
+            print("Статус: Загрузка новой версии...")
             response = requests.get(url)
             response.raise_for_status()
 
-            new_code_path = Path(__file).with_name("update_loader.py")
+            # путь к новому файлу
+            new_code_path = Path(__file__).with_name("DGSLoader.py")
+
+            # записываем новый код
             with open(new_code_path, "wb") as f:
                 f.write(response.content)
+
             self.status_text.set("Download complete. Updating...")
+            print("Статус: Загрузка завершена. Обновление...")
+
             time.sleep(2)
+
+            # перезапускаем скрипт
             os.execl(sys.executable, sys.executable, str(new_code_path))
+
         except Exception as e:
             self.status_text.set(f"Error downloading new version: {e}")
+            print(f"Ошибка при загрузке новой версии: {e}")
             self.show_main_menu()
 
     def show_main_menu(self):
