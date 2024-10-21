@@ -15,7 +15,7 @@ import webbrowser
 # Версия лоадера
 VERSION = "1.1"
 VERSION_URL_TEMPLATE = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/1.1"  # URL для проверки версии в имени файла
-LOADER_DOWNLOAD_URL = "https://example.com/loader_version.py"  # URL для скачивания новой версии
+LOADER_DOWNLOAD_URL = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/loader_newversion.py"  # URL для скачивания новой версии
 image_url = "https://raw.githubusercontent.com/FileInstaller/Deadlygoofer.cc/refs/heads/Website/logo.jpg"  # Замените на реальный URL изображения
 
 # Путь для загрузки файлов
