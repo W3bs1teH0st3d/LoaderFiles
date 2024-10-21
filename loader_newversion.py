@@ -13,7 +13,7 @@ import queue
 import webbrowser
 
 # Версия лоадера
-VERSION = "1.1"
+VERSION = "1.02"
 VERSION_URL_TEMPLATE = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/1.1"  # URL для проверки версии в имени файла
 LOADER_DOWNLOAD_URL = "https://raw.githubusercontent.com/FileInstaller/LoaderFiles/refs/heads/main/loader_newversion.py"  # URL для скачивания новой версии
 image_url = "https://raw.githubusercontent.com/FileInstaller/Deadlygoofer.cc/refs/heads/Website/logo.jpg"  # Замените на реальный URL изображения
@@ -32,7 +32,7 @@ class LoaderApp(ctk.CTk):
         print("------Loaded DeadlySOFT------")
         print("------------Logs------------")
         self.title("DeadlySoft Loader")
-        self.geometry("400x500")
+        self.geometry("425x510")
         self.resizable(False, False)
         self.configure(bg="grey20")
 
@@ -174,8 +174,12 @@ class LoaderApp(ctk.CTk):
 
         ]
 
+        self.scrollable_frame = ctk.CTkScrollableFrame(self, width=580, height=300)
+        self.scrollable_frame.pack(side="top", padx=10, pady=10)
+
+        # Заполняем список скриптов
         for script in self.scripts:
-            frame = ctk.CTkFrame(self, fg_color="grey20")
+            frame = ctk.CTkFrame(self.scrollable_frame, fg_color="grey20")
             frame.pack(pady=5, padx=10, fill="both")
 
             logo = self.load_ctk_image_from_url(script["logo"])
@@ -191,7 +195,9 @@ class LoaderApp(ctk.CTk):
             script_desc = ctk.CTkLabel(details_frame, text=script["desc"], font=("Arial", 14), fg_color="grey20")
             script_desc.pack(anchor="w")
 
-            run_button = ctk.CTkButton(frame, text="Execute", command=lambda url=script["url"], name=script["name"]: self.run_script(url, name))
+            run_button = ctk.CTkButton(frame, text="Start",
+                                       command=lambda url=script["url"], name=script["name"]: self.run_script(url,
+                                                                                                              name))
             run_button.pack(side="right", padx=10)
 
     # Метод открытия URL
