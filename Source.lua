@@ -620,7 +620,7 @@ WEBSITE.Position = UDim2.new(0.177174687, 0, 0.499190629, 0)
 WEBSITE.Size = UDim2.new(0, 197, 0, 23)
 WEBSITE.ZIndex = 3
 WEBSITE.Font = Enum.Font.ArialBold
-WEBSITE.Text = "SpaceLoader.fun" 
+WEBSITE.Text = "Space.Hook - Beta" 
 WEBSITE.TextColor3 = Color3.fromRGB(199, 199, 199)
 WEBSITE.TextSize = 14.000
 WEBSITE.TextXAlignment = Enum.TextXAlignment.Left
@@ -640,7 +640,7 @@ LABEL2.TextColor3 = Color3.fromRGB(199, 199, 199)
 LABEL2.TextSize = 14.000
 LABEL2.TextXAlignment = Enum.TextXAlignment.Right
 
-linedecoDOWNER.Name = "linedecoDOWNER"
+linedecoDOWNER.Name = "ewinnery"
 linedecoDOWNER.Parent = MAIN
 linedecoDOWNER.BackgroundColor3 = Color3.fromRGB(91, 133, 197)
 linedecoDOWNER.BorderColor3 = Color3.fromRGB(91, 133, 197)
