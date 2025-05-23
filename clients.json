@@ -1,0 +1,712 @@
+{
+  "Deadcode Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "deadcode.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Delta Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Delta.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Deluxe Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "deluxe.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Dettex Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "dettex.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Ellant Client": {
+    "version": "1.16.5",
+    "description": "cheat with good crawls",
+    "filename": "ellant.zip",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Elyxium Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "elyxium.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Enigma Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "enigma.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Essence Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Essence.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Eternity Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "eternity.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Evaware Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "evaware.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Excellent Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Excellent.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "ExcellentRecode Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "excellentRecode.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "ExcellentUpgrade Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "excellentUpgrade.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Exclus Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Exclus.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Exclusfun Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Exclusfun.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Exclusive Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "exclusive.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Expensive-2.0 Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Expensive-2.0.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Expensive-3.1 Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Expensive-3.1.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "ExpensiveUpgrade Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "ExpensiveUpgrade.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Fluger Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "fluger.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Fougest Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Fougest.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Hachclient Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "hachclient.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Haruka Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "haruka.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Hudas Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "hudas.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Koshkadlc Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "koshkadlc.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Manloxx Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "manloxx.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Minced Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "minced.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Minecraft Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "minecraft.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Monoton Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "monoton.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Neverhook Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "neverhook.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Neverlose Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "neverlose.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nevernight Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nevernight.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Newcode Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "newcode.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nexgen Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nexgen.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nightdlc Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nightdlc.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nightware Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nightware.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nix Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nix.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nova Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nova.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nuckerdlc Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "nuckerdlc.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Nursultan Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Nursultan.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Orbita Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "orbita.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Pasta Client": {
+    "version": "1.16.5",
+    "description": "Best legit client for funtime by GLTeam+Pasteam",
+    "filename": "pasta.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": "https://example.com/Pasta.xyz.jar"
+  },
+  "Pastaxyz Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "pastaxyz.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Rockstar Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "rockstar.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Rust Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "rust.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Sirius Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "sirius.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Slashware Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "slashware.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "SpaceLoader Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "SpaceLoader.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Tofficlient Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "tofficlient.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Valhalla Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "valhalla.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Vegaline Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "vegaline.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Venusfree Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "venusfree.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Verist Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "verist.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Vredux Client": {
+    "version": "1.16.5",
+    "description": "cheat with good crawls",
+    "filename": "vredux.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Wave Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "wave.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Wexside Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Wexside.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Wiksi Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "wiksi.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "WildDLC Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "WildDLC.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Winner Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "winner.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Wissend Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "wissend.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Zaharov Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "zaharov.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Zamorozka_0.5 Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "zamorozka_0.5.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Zexis Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Zexis.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Arbuz Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "arbuz.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "AwesomeProject Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "AwesomeProject.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Catlavan Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "catlavan.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Celestial_0.6.7 Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "Celestial_0.6.7.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "CelestialRecode Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "CelestialRecode.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Centric Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "centric.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "Churka Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "churka.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  },
+  "CS2 Client": {
+    "version": "1.16.5",
+    "description": "Minecraft client",
+    "filename": "cs2.jar",
+    "main_class": "net.minecraft.client.main.Main",
+    "show_in_loader": true,
+    "working": true,
+    "requires_libraries": true,
+    "custom_link": null
+  }
+}
